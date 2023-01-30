@@ -4,7 +4,7 @@
 # Date: 23.06.2005
 # Updated: 27.01.2021
 
-$FONT="XFT#Sans-7"
+$FONT="Sans-8"
 PDecor {
 
 Decor = "DEFAULT" {
